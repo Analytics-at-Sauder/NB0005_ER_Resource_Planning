@@ -1,3 +1,5 @@
 numpy
 pandas
 simpy
+matplotlib
+datetime
